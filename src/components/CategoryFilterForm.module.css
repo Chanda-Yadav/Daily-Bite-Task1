@@ -1,0 +1,139 @@
+.mascotCategories1Icon {
+  position: absolute;
+  top: -52px;
+  left: -9px;
+  width: 423px;
+  height: 647px;
+  object-fit: cover;
+}
+.categories1 {
+  position: absolute;
+  top: 53px;
+  left: 570px;
+  display: inline-block;
+  width: 491px;
+  height: 97px;
+}
+.component3Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-131xl);
+  background-color: var(--color-gainsboro);
+}
+.veg {
+  position: absolute;
+  height: 11.03%;
+  width: 47.36%;
+  top: 63.58%;
+  left: 25.91%;
+  font-weight: 600;
+  display: inline-block;
+  transform: rotate(-1.72deg);
+  transform-origin: 0 0;
+}
+.maskGroupIcon {
+  position: absolute;
+  height: 45.02%;
+  width: 67.88%;
+  top: 9.37%;
+  right: 16.06%;
+  bottom: 45.61%;
+  left: 16.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component3 {
+  position: relative;
+  width: 193px;
+  height: 271px;
+}
+.nonVeg {
+  position: absolute;
+  height: 10.33%;
+  width: 57.77%;
+  top: 62.73%;
+  left: 21.41%;
+  font-weight: 600;
+  display: inline-block;
+  transform: rotate(-0.21deg);
+  transform-origin: 0 0;
+}
+.maskGroupIcon1 {
+  position: absolute;
+  height: 45.02%;
+  width: 67.88%;
+  top: 9.37%;
+  right: 16.03%;
+  bottom: 45.61%;
+  left: 16.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component4 {
+  position: relative;
+  width: 184px;
+  height: 271px;
+}
+.maskGroupIcon2 {
+  position: absolute;
+  height: 45.02%;
+  width: 66.67%;
+  top: 9.37%;
+  right: 16.67%;
+  bottom: 45.61%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.egg {
+  position: absolute;
+  height: 12.88%;
+  width: 59.67%;
+  top: 62.58%;
+  left: 20.17%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component5 {
+  position: relative;
+  width: 180px;
+  height: 271px;
+}
+.component3Parent {
+  position: absolute;
+  top: 165px;
+  left: 442px;
+  width: 831px;
+  height: 290px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-89xl);
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.categories {
+  position: absolute;
+  top: 766px;
+  left: 9px;
+  width: 1328px;
+  height: 504px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-orangered);
+  font-family: var(--font-montserrat);
+}
